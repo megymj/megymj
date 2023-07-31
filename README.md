@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoojun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moojun)](https://github.com/Moojun/Moojun) 
-[![Moojun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moojun&&show_icons=true)](https://github.com/Moojun/Moojun)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=megymj)](https://github.com/megymj/megymj) 
+[![Moojun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=megymj&&show_icons=true)](https://github.com/megymj/megymj)
 
 <!--
 **Moojun/Moojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
